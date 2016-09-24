@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "18307B9C1D42A54800267469"
-               BuildableName = "IOS_game.app"
-               BlueprintName = "IOS_game"
-               ReferencedContainer = "container:IOS_game.xcodeproj">
+               BlueprintIdentifier = "18307BCA1D42A7AB00267469"
+               BuildableName = "ClickMeter.app"
+               BlueprintName = "ClickMeter"
+               ReferencedContainer = "container:ClickMeter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "18307BB21D42A54800267469"
-               BuildableName = "IOS_gameTests.xctest"
-               BlueprintName = "IOS_gameTests"
-               ReferencedContainer = "container:IOS_game.xcodeproj">
+               BlueprintIdentifier = "18307BE01D42A7AB00267469"
+               BuildableName = "ClickMeterTests.xctest"
+               BlueprintName = "ClickMeterTests"
+               ReferencedContainer = "container:ClickMeter.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18307B9C1D42A54800267469"
-            BuildableName = "IOS_game.app"
-            BlueprintName = "IOS_game"
-            ReferencedContainer = "container:IOS_game.xcodeproj">
+            BlueprintIdentifier = "18307BCA1D42A7AB00267469"
+            BuildableName = "ClickMeter.app"
+            BlueprintName = "ClickMeter"
+            ReferencedContainer = "container:ClickMeter.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,10 +65,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18307B9C1D42A54800267469"
-            BuildableName = "IOS_game.app"
-            BlueprintName = "IOS_game"
-            ReferencedContainer = "container:IOS_game.xcodeproj">
+            BlueprintIdentifier = "18307BCA1D42A7AB00267469"
+            BuildableName = "ClickMeter.app"
+            BlueprintName = "ClickMeter"
+            ReferencedContainer = "container:ClickMeter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -84,10 +84,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "18307B9C1D42A54800267469"
-            BuildableName = "IOS_game.app"
-            BlueprintName = "IOS_game"
-            ReferencedContainer = "container:IOS_game.xcodeproj">
+            BlueprintIdentifier = "18307BCA1D42A7AB00267469"
+            BuildableName = "ClickMeter.app"
+            BlueprintName = "ClickMeter"
+            ReferencedContainer = "container:ClickMeter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

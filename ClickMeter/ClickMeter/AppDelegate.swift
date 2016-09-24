@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  IOS_game
+//  ClickMeter
 //
 //  Created by yossi Ben David on 7/22/16.
 //  Copyright © 2016 yossi Ben David. All rights reserved.

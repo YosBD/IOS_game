@@ -1,15 +1,15 @@
 //
-//  IOS_gameTests.swift
-//  IOS_gameTests
+//  ClickMeterTests.swift
+//  ClickMeterTests
 //
 //  Created by yossi Ben David on 7/22/16.
 //  Copyright © 2016 yossi Ben David. All rights reserved.
 //
 
 import XCTest
-@testable import IOS_game
+@testable import ClickMeter
 
-class IOS_gameTests: XCTestCase {
+class ClickMeterTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
