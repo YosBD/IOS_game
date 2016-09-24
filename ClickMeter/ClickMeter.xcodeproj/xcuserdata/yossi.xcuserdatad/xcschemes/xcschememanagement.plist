@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>IOS_game.xcscheme</key>
+		<key>ClickMeter.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>18307B9C1D42A54800267469</key>
+		<key>18307BCA1D42A7AB00267469</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>18307BB21D42A54800267469</key>
+		<key>18307BE01D42A7AB00267469</key>
 		<dict>
 			<key>primary</key>
 			<true/>
